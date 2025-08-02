@@ -1,9 +1,9 @@
 h1{
-    color: gold;
+    color: rgb(38, 255, 0);
     text-align: center;
 }
 p{
-    color: aqua;
+    color: rgb(255, 38, 0);
     text-align: center;
     background-color: black;
 }
